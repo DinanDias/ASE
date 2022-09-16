@@ -11,7 +11,7 @@
     <div class="row intro_row">
       <div class="col-xl-8 col-lg-10 offset-xl-2 offset-lg-1">
         <div class="intro_text text-center">
-          <p>Spread across the length d breadth of our tropical island, our homes of Sri Lankan hospitality invite you to indulge in our signature brand of luxury, brought to life with the strength of our well-rooted family values. No matter where you may find yourself in Sri Lanka, our doors will always be open.</p>
+          <p>Spread across the length and breadth of our tropical island, our homes of Sri Lankan hospitality invite you to indulge in our signature brand of luxury, brought to life with the strength of our well-rooted family values. No matter where you may find yourself in Sri Lanka, our doors will always be open.</p>
         </div>
       </div>
     </div>
